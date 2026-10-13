@@ -124,6 +124,19 @@ const SITE = {
       "repo": "https://github.com/simodaurbanwiz-jpg",
       "live": "https://github.com/simodaurbanwiz-jpg/updater-api.git",
       "image": "images/projects/updater.png"
+    },
+    { 
+      "title": "Fourier Melodic DJ", 
+      "description": "It's an html PRO virtual DJ mixer with various fully functional features that a professional DJ can ever desire.", 
+      "tags": [
+        "#realityseries",
+        "#melodicvibes",
+        "#viral",
+        "#professionaldjs"
+      ], 
+      "repo": "https://github.com/simodaurbanwiz-jpg",
+      "live": "https://github.com/simodaurbanwiz-jpg/Fourier_audio_mixer.git",
+      "image": "images/projects/fourier_dj_pro.png"
     }
   ],
   "editor": true,
