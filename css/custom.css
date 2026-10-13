@@ -1,0 +1,9 @@
+/* Your own CSS goes here. It loads last, so it overrides everything.
+   Example:  h1{letter-spacing:2px}  .btn{border-radius:99px} */
+   .ico[title="Updater-Api"] img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+   .ico[title="HillsNation"] img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+   .ico[title="LinkedIn"] img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+   .ico[title="Instagram"] img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+   .ico[title="X"] img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+   .ico[title="Facebook"] img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+

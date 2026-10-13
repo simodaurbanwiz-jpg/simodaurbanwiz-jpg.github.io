@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/simodaurbanwiz-jpg/simodaurbanwiz-jpg.github.io.git/sitemap.xml
